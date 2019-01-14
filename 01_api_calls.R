@@ -73,7 +73,8 @@ gsa_dim_date <- search_analytics(siteURL = GSC_PROP,
                                  startDate = START_DATE,
                                  endDate = END_DATE,
                                  searchType = "web",
-                                 dimensions = "date")
+                                 dimensions = "date",
+                                 walk_data = "byDate")
 
 # GSA: Date ~ Query
 
@@ -81,7 +82,8 @@ gsa_dim_date_query <- search_analytics(siteURL = GSC_PROP,
                                        startDate = START_DATE,
                                        endDate = END_DATE,
                                        searchType = "web",
-                                       dimensions = c("date", "query"))
+                                       dimensions = c("date", "query"),
+                                       walk_data = "byDate")
 
 # GSA: Date ~ Page
 
@@ -89,7 +91,8 @@ gsa_dim_date_page <- search_analytics(siteURL = GSC_PROP,
                                       startDate = START_DATE,
                                       endDate = END_DATE,
                                       searchType = "web",
-                                      dimensions = c("date", "page"))
+                                      dimensions = c("date", "page"),
+                                      walk_data = "byDate")
 
 
 # Sistrix -------------------------------------------------------------
