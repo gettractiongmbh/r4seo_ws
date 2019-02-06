@@ -1,4 +1,4 @@
-# R4SEO: Automatisierte Reports mit R generieren
+# R4SEO: Automatisierte Reports mit R generieren 📈
 Repo für die R-Skripte der Artikelserie "R4SEO: Automatisierte Reports mit R generieren" aus der Website Boosting.
 
 Wenn ihr Fragen oder Anregungen zu den Skripten oder den Artikeln habt, freue ich mich auf euren Besuch in der dafür gegründeten Facebook-Gruppe **[OmPyR](https://www.facebook.com/groups/ompyr/)**. 😊
