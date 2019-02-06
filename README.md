@@ -4,5 +4,5 @@ Repo für die R-Skripte der Artikelserie "R4SEO: Automatisierte Reports mit R ge
 Wenn ihr Fragen oder Anregungen zu den Skripten oder den Artikeln habt, freue ich mich auf euren Besuch in der dafür gegründeten Facebook-Gruppe **[OmPyR](https://www.facebook.com/groups/ompyr/)**. 😊
 
 ## Teil 1: GA-, GSC- und Sistrix-API abfragen
-- Artikel: (tba)
+- Artikel: https://www.websiteboosting.com/magazin/54/r4seo-automatisierte-reports-mit-r-generieren-teil-1.html
 - Skript: [01_api_calls.R](https://github.com/gettractiongmbh/r4seo_ws/blob/master/01_api_calls.R)
