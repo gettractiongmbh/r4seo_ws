@@ -9,4 +9,4 @@ Wenn ihr Fragen oder Anregungen zu den Skripten oder den Artikeln habt, freue ic
 
 ## Teil 2: Vervollständigung von Zeitreihen, Berechnung gleitender Mittelwert, Transponieren von DateFrames
 - Artikel: (tba)
-- Skript: [02_02_data_tidying.R](https://github.com/gettractiongmbh/r4seo_ws/blob/master/02_data_tidying.R)
+- Skript: [02_data_tidying.R](https://github.com/gettractiongmbh/r4seo_ws/blob/master/02_data_tidying.R)
