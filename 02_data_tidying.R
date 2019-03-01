@@ -142,10 +142,10 @@ library(padr)
 # Impressions / Clicks
 
 # Fehlende Datumspunkte einfügen, Impressions und
-# Clicks mit 0 auffüllen
+# Clicks und Impressions mit 0 auffüllen
 gsa_dim_date <- gsa_dim_date %>%
   pad(start_val = START_DATE,
-          end_val = END_DATE) %>%
+      end_val = END_DATE) %>%
   replace_na(list(clicks = 0,
                   impressions = 0))
 
